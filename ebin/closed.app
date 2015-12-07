@@ -1,0 +1,10 @@
+{application,closed,
+             [{description,"A closed source OTP library"},
+              {vsn,"0.1.0"},
+              {registered,[]},
+              {applications,[kernel,stdlib]},
+              {env,[]},
+              {modules,[closed]},
+              {contributors,[]},
+              {licenses,[]},
+              {links,[]}]}.
